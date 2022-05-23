@@ -1,6 +1,6 @@
 #   <p align="center"> Hi 👋, I’m Nikita Rathore </p>
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning NodeJs, ExpressJs.
 - 📫 How to reach me nikitarthore271201@gmial.com
 
 <!---
